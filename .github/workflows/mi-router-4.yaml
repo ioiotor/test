@@ -14,7 +14,7 @@ on:
     types: [published]
   push:
     branches: 
-      - main
+      - master    
   #     ↑↑↑ 改成你的分支名, 一般是master
   # schedule:
   #   - cron: 0 20 * * *
